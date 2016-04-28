@@ -3,4 +3,11 @@
     <string name="edit_message">Введите сообщение</string>
     <string name="button_send">Послать</string>
     <string name="action_settings">Настройки</string>
+
+    <string-array name="exercise_array">
+        <item>Приседания</item>
+        <item>Отжимания</item>
+        <item>Скручивания</item>
+        <item>Подтягивания</item>
+    </string-array>
 </resources>

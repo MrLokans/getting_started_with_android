@@ -3,4 +3,12 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="exercise_array">
+        <item>Squats</item>
+        <item>Push-ups</item>
+        <item>Crunches</item>
+        <item>Pull-ups</item>
+    </string-array>
+
 </resources>
